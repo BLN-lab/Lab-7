@@ -13,6 +13,11 @@
         android:textColor="#fff"
         android:gravity="center_horizontal"
         android:layout_height="match_parent"
-        android:text="hello blank fragment 2" />
+        android:text="Миний дуртай хамтлаг" />
+
+    <ListView
+        android:id="@+id/List"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
 
 </FrameLayout>
